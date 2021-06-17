@@ -29,6 +29,7 @@ Install dependencies
 ```bash
   npm install
 ```
+A .env file with required variables is also required, otherwise it will not run. 
 
 Start the server
 
