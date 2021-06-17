@@ -1,8 +1,7 @@
 
 # VacData
 
-VacData is a node based web application. It extracts all the relevant
-details of the nearest vaccination centers from the CoWIN portal and emails it to the user.
+VacData is a node based web application. Since booking a slot for vaccine is not a cup of cake, this application makes the life easier by sending the details of vaccincation centers. Using the CoWIN APIs, it extracts all the relevant details of the nearest vaccination centers from the CoWIN portal and emails it to the user. 
 
 
 
